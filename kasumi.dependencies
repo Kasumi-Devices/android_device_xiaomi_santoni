@@ -1,0 +1,13 @@
+[
+  {
+    "repository": "Jabiyeff-Project/kernel-santoni",
+    "target_path": "kernel/xiaomi/santoni",
+    "branch": "11.0"
+  },
+  {
+    "remote": "yuki-no-git",
+    "repository": "proprietary-blobs/xiaomi_santoni",
+    "target_path": "vendor/xiaomi",
+    "branch": "kasumi-v1"
+  }
+]
