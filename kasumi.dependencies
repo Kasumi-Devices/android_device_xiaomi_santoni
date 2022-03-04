@@ -5,9 +5,8 @@
     "branch": "11.0"
   },
   {
-    "remote": "yuki-no-git",
-    "repository": "proprietary-blobs/xiaomi_santoni",
+    "repository": "Jabiyeff-Project/vendor-santoni",
     "target_path": "vendor/xiaomi",
-    "branch": "kasumi-v1"
+    "branch": "11.0"
   }
 ]
